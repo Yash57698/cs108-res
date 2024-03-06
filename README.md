@@ -4,6 +4,8 @@
 
 This repo contains the resources for CS 108 midsem.
 
+Yash's Lab solutions: https://drive.google.com/file/d/1DHhTWLG7Ft8V1s7TPAt1ApidvFT4awgN/view?usp=sharing
+
 Clone this repo using the command
 
 ```bash
